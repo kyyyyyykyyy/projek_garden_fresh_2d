@@ -11,7 +11,7 @@
 ![Genre](https://img.shields.io/badge/Genre-Simulation_Strategy-green?style=for-the-badge)
 
 <br>
-
+   
 **"Tanam, Rawat, Panen, Cuan!"**
 <br>
 Simulasi pertanian santai dengan siklus pertumbuhan tanaman *real-time* dan sistem ekonomi sederhana.
